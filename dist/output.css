@@ -795,7 +795,7 @@ video {
 
 .bg-veryLightGray {
   --tw-bg-opacity: 1;
-  background-color: hsl(0 0% 98% / var(--tw-bg-opacity));
+  background-color: hsl(0 0% 90% / var(--tw-bg-opacity));
 }
 
 .bg-gray-900 {
